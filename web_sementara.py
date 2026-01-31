@@ -1,10 +1,11 @@
 # ==========================================================
-# STREAMLIT MINI LMS KODING ANAK (MULTI-PAGE READY)
-# FITUR 1-4:
+# MINI LMS KODING ANAK - MULTI PAGE READY BUT NOT FULL FEATURED
+# FITUR:
 # 1. Sidebar otomatis sesuai role
 # 2. Bank soal modular
 # 3. Hasil murid tersimpan & bisa dilihat guru
 # 4. Guru bisa download & review hasil murid
+# INI ADALAH CODE DARI SendPain11
 # ==========================================================
 
 import streamlit as st
@@ -181,3 +182,4 @@ if st.session_state.role == "👩‍🏫 Guru":
             st.write(f"Nilai: {data['nilai']}")
             st.download_button("📄 PDF", open(f"{REPORT_DIR}/{data['id']}.pdf", "rb"), f"{data['id']}.pdf")
             st.divider()
+
