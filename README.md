@@ -257,7 +257,7 @@ Jika ada karakter special yang error, gunakan huruf standar di soal dan penjelas
 - GitHub: [@yourusername](https://github.com/SendPain11)
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/sendy-prismana-nurferian-95a27b213/)
 - Email: sendyprisma02@gmail.com
-- Documentation Project: [streamlit web](OnTheWay)
+- Documentation Project: [modul-anak-coding](https://modul-anak-coding-sendpain11.streamlit.app/)
 
 
 ## 🤝 Contributing
