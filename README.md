@@ -254,8 +254,8 @@ Jika ada karakter special yang error, gunakan huruf standar di soal dan penjelas
 ## 👤 Author
 
 **Sendy Prismana Nurferian**
-- GitHub: [@yourusername](https://github.com/SendPain11)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/sendy-prismana-nurferian-95a27b213/)
+- GitHub: [@SendPain11](https://github.com/SendPain11)
+- LinkedIn: [Sendy Prismana Nurferian](https://www.linkedin.com/in/sendy-prismana-nurferian-95a27b213/)
 - Email: sendyprisma02@gmail.com
 - Documentation Project: [modul-anak-coding](https://modul-anak-coding-sendpain11.streamlit.app/)
 
