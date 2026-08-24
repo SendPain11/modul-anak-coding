@@ -1,0 +1,25 @@
+# Data pribadi siswa & hasil ujian (JANGAN di-commit ke repo publik)
+data/
+sessions/
+reports/
+certificates/
+backups/
+
+# Konfigurasi sensitif (berisi App Password email!)
+config/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+
+# Catatan: folder modules/ (bank soal) SENGAJA tidak di-ignore,
+# karena isinya soal-soal (bukan data pribadi) yang biasanya
+# memang ingin di-versionkan bersama kode.
